@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </p>
   
-  <img src="assets/images/projects/wordpress/lgrrc/homepage.jpg" alt="LGRRC Homepage" width="100%">
+  <img src="assets/homepage.jpg" alt="LGRRC Homepage" width="100%">
 
 </div>
 
@@ -46,17 +46,17 @@ Built on **WordPress** using **Elementor Pro**, the platform features a custom-d
   <tr>
     <td width="50%">
       <h3 align="center">Custom Login Portal</h3>
-      <img src="assets/images/projects/wordpress/lgrrc/sign-in.jpg" alt="Sign In Page" width="100%">
+      <img src="assets/sign-in.jpg" alt="Sign In Page" width="100%">
     </td>
     <td width="50%">
       <h3 align="center">Live Deployment</h3>
-      <img src="assets/images/projects/wordpress/lgrrc/hosted-web.jpg" alt="Hosted Web View" width="100%">
+      <img src="assets/hosted-web.jpg" alt="Hosted Web View" width="100%">
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <h3 align="center">Presentation Mode (Smart TV Display)</h3>
-      <img src="assets/images/projects/wordpress/lgrrc/official-demo.jpg" alt="TV Display Demo" width="100%">
+      <img src="assets/official-demo.jpg" alt="TV Display Demo" width="100%">
     </td>
   </tr>
 </table>
